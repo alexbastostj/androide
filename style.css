@@ -6,18 +6,6 @@
     font-family: 'Android';
     src: url('../fontes/idroid.otf') format('opentype');
 }
-
-
-/*
-#c5ebd6
-#83e1ad
-#3ddc84
-#2fa866
-#1a5c37
-#063d1e
-*/
-
-
 :root {
     --cor0: #c5ebd6;
     --cor1: #83e1ad;
@@ -65,7 +53,7 @@ header > p {
     font-size: 1.2em;
     max-width: 600px;
     margin: auto;
-    margin-bottom: 30px;
+    padding-bottom: 30px;
     padding-left: 15px;
     padding-right: 15px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.377);
